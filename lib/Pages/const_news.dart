@@ -14,11 +14,11 @@ class ConstNews extends StatelessWidget {
             padding: const EdgeInsets.all(8.0),
             child: Container(
               decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(15),
-              image: const DecorationImage(
-                image: NetworkImage('http://n.sinaimg.cn/sinakd20230717s/296/w500h596/20230717/b7e0-bea03f72e97ab18e7bb9820ace700cf3.jpg'),
-                fit:BoxFit.cover
-                ),
+                borderRadius: BorderRadius.circular(15),
+                image: const DecorationImage(
+                  image: NetworkImage('http://n.sinaimg.cn/sinakd20230717s/296/w500h596/20230717/b7e0-bea03f72e97ab18e7bb9820ace700cf3.jpg'),
+                  fit:BoxFit.cover
+                  ),
               ),
               child: GestureDetector(
                 onTap: (){
