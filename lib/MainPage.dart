@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:projectapp/const_news.dart';
-import 'package:projectapp/home.dart';
-import 'package:projectapp/game.dart';
-import 'package:projectapp/daily.dart';
+import 'package:projectapp/Pages/const_news.dart';
+import 'package:projectapp/Pages/home.dart';
+import 'package:projectapp/Pages/game.dart';
+import 'package:projectapp/Pages/daily.dart';
 
 class ProjectApp extends StatefulWidget {
   const ProjectApp({super.key});
