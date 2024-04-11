@@ -2,9 +2,14 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 
-class CNews1 extends StatelessWidget {
+class CNews1 extends StatefulWidget {
   const CNews1({super.key});
 
+  @override
+  State<CNews1> createState() => _CNews1State();
+}
+
+class _CNews1State extends State<CNews1> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -19,29 +24,25 @@ class CNews1 extends StatelessWidget {
             child: Column(
               children: [
                 Container(
-                  alignment: Alignment.topCenter,
+                  height: 150,
+                  width: 200,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(15),
-                    image: const DecorationImage(
-                        image: NetworkImage('http://n.sinaimg.cn/sinakd20230717s/296/w500h596/20230717/b7e0-bea03f72e97ab18e7bb9820ace700cf3.jpg'),
-                        fit:BoxFit.cover
                     ),
+                  child: Image.network(
+                      'http://n.sinaimg.cn/sinakd20230717s/296/w500h596/20230717/b7e0-bea03f72e97ab18e7bb9820ace700cf3.jpg',
+                      fit: BoxFit.cover,
                   ),
-                  child: Card(
-                    color: Colors.transparent,
-                    shadowColor: Colors.transparent,
-                    child: Column(
-                      children: [
-                        Row(
-                          children: [
-                            SizedBox(
-                              height: 150,
-                            )
-                          ],
-                        )
-                      ],
-                    ),
-                  ),
+                ),
+                ListView(
+                  children: [
+                    Text(
+                      '「拉索」記錄「宇宙煙花」爆發全程',
+                      style: TextStyle(
+
+                      ),
+                    )
+                  ],
                 ),
               ],
             ),
