@@ -32,8 +32,19 @@ class _ProjectAppState extends State<ProjectApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Project'),
+        iconTheme: const IconThemeData(
+          color: Colors.white,
+        ),
+        title: const Text(
+            '國航科技你要識',
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+            color: Colors.white,
+            letterSpacing: 1,
+          ),
+        ),
         centerTitle: true,
+        backgroundColor: Colors.blue,
       ),
       body: _pages[_selectedIndex],
       bottomNavigationBar: BottomNavigationBar(

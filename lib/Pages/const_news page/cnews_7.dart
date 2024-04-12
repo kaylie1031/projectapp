@@ -2,14 +2,14 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 
-class CNews2 extends StatefulWidget {
-  const CNews2({super.key});
+class CNews7 extends StatefulWidget {
+  const CNews7({super.key});
 
   @override
-  State<CNews2> createState() => _CNews2State();
+  State<CNews7> createState() => _CNews7State();
 }
 
-class _CNews2State extends State<CNews2> {
+class _CNews7State extends State<CNews7> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

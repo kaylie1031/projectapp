@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 
-class CNews3 extends StatelessWidget {
-  const CNews3({super.key});
+class CNews8 extends StatelessWidget {
+  const CNews8({super.key});
 
   @override
   Widget build(BuildContext context) {
