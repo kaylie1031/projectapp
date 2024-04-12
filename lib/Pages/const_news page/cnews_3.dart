@@ -32,8 +32,8 @@ class CNews3 extends StatelessWidget {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(15),
                 ),
-                child: Image.network(
-                  'https://rmrbcmsonline.oss-cn-beijing.aliyuncs.com/upload/ueditor/image/20230629/a_858876179053015040.jpeg?x-oss-process=image/format,jpg/auto-orient,1',
+                child: Image.asset(
+                  'assets/cnews3.jpeg',
                   fit: BoxFit.cover,
                 ),
               ),

@@ -38,8 +38,8 @@ class _CNews2State extends State<CNews2> {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(15),
                 ),
-                child: Image.network(
-                  'https://kcb.sh.gov.cn/upload/1/editor/1687313541502.jpg',
+                child: Image.asset(
+                  'assets/cnews2.jpg',
                   fit: BoxFit.cover,
                 ),
               ),

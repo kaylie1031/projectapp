@@ -38,8 +38,8 @@ class _CNews1State extends State<CNews1> {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(15),
                 ),
-                child: Image.network(
-                  'http://n.sinaimg.cn/sinakd20230717s/296/w500h596/20230717/b7e0-bea03f72e97ab18e7bb9820ace700cf3.jpg',
+                child: Image.asset(
+                  'assets/cnews1.jpg',
                   fit: BoxFit.cover,
                 ),
               ),
