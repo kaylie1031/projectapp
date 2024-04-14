@@ -244,7 +244,8 @@ class ConstNews extends StatelessWidget {
                 ),
               ),
             ),
-          ),Padding(
+          ),
+          Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
               decoration: BoxDecoration(
@@ -274,6 +275,100 @@ class ConstNews extends StatelessWidget {
                           children: [
                             StrokeText(
                               text: '中國人工智能發展進入新階段',
+                              textStyle: TextStyle(
+                                fontSize: 20,
+                                color: Colors.white,
+                                fontWeight: FontWeight.bold,
+                                letterSpacing: 1,
+                              ),
+                              strokeColor: Colors.black,
+                              strokeWidth: 5,
+                            )
+                          ],
+                        ),
+                      ]
+                  ),
+                ),
+              ),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(15),
+                image: const DecorationImage(
+                    image: AssetImage('assets/cnews7.png'),
+                    fit:BoxFit.cover
+                ),
+              ),
+              child: GestureDetector(
+                onTap: (){
+                  Navigator.pushNamed(context, '/const_news7');
+                },
+                child: Card(
+                  color: Colors.transparent,
+                  shadowColor: Colors.transparent,
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(10)
+                  ),
+                  child: const Column(
+                      children: [
+                        SizedBox(
+                          height: 100,
+                        ),
+                        Row(
+                          crossAxisAlignment: CrossAxisAlignment.end,
+                          children: [
+                            StrokeText(
+                              text: '華為智能手機支持雙向衛星通話 ',
+                              textStyle: TextStyle(
+                                fontSize: 20,
+                                color: Colors.white,
+                                fontWeight: FontWeight.bold,
+                                letterSpacing: 1,
+                              ),
+                              strokeColor: Colors.black,
+                              strokeWidth: 5,
+                            )
+                          ],
+                        ),
+                      ]
+                  ),
+                ),
+              ),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(15),
+                image: const DecorationImage(
+                    image: AssetImage('assets/cnews8.jpeg'),
+                    fit:BoxFit.cover
+                ),
+              ),
+              child: GestureDetector(
+                onTap: (){
+                  Navigator.pushNamed(context, '/const_news8');
+                },
+                child: Card(
+                  color: Colors.transparent,
+                  shadowColor: Colors.transparent,
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(10)
+                  ),
+                  child: const Column(
+                      children: [
+                        SizedBox(
+                          height: 100,
+                        ),
+                        Row(
+                          crossAxisAlignment: CrossAxisAlignment.end,
+                          children: [
+                            StrokeText(
+                              text: '中國探月工程：嫦娥系列任務的壯舉 ',
                               textStyle: TextStyle(
                                 fontSize: 20,
                                 color: Colors.white,

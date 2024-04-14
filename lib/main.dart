@@ -8,9 +8,11 @@ import 'package:projectapp/Pages/const_news%20page/cnews_5.dart';
 import 'package:projectapp/Pages/const_news%20page/cnews_6.dart';
 import 'package:projectapp/Pages/const_news%20page/cnews_7.dart';
 import 'package:projectapp/Pages/const_news%20page/cnews_8.dart';
+import 'package:projectapp/Pages/daily.dart';
 
 void main() {
   runApp(const MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
 }
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -29,6 +31,7 @@ class MyApp extends StatelessWidget {
          '/const_news6': (context) => CNews6(),
          '/const_news7': (context) => CNews7(),
          '/const_news8': (context) => CNews8(),
+         '/dailynews': (context) => Daily(),
        },
      );
   }

@@ -43,6 +43,9 @@ class CNews3 extends StatelessWidget {
                   fontSize: 25,
                 ),
               ),
+              const SizedBox(
+                height: 10,
+              ),
               const Row(
                 children: [
                   Flexible(

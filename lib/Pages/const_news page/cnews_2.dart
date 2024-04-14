@@ -49,6 +49,9 @@ class _CNews2State extends State<CNews2> {
                   fontSize: 25,
                 ),
               ),
+              const SizedBox(
+                height: 10,
+              ),
               const Row(
                 children: [
                   Flexible(
