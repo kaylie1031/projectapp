@@ -51,7 +51,7 @@ class _RulespageState extends State<Rulespage> {
                       ),
                       ElevatedButton(
                         onPressed: (){
-                          Navigator.pushNamed(context, '');
+                          Navigator.pushNamed(context, '~game');
                         },
                         child: Padding(
                           padding: const EdgeInsets.all(8.0),

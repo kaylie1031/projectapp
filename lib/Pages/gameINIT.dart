@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:projectapp/GamePages/rulesPage.dart';
 import 'package:projectapp/GamePages/startPage.dart';
+import 'package:projectapp/GamePages/gamePage.dart';
 
 class Game extends StatelessWidget {
   const Game({super.key});
@@ -12,6 +13,7 @@ class Game extends StatelessWidget {
       routes: {
         '~': (context) => Startpage(),
         '~rules':(context) => Rulespage(),
+        '~game':(context) => Gamepage(),
       },
     );
   }
