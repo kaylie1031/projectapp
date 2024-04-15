@@ -16,7 +16,7 @@ class GetNews {
 
     List<int> newsno = [];
     while (newsno.length < 5) {
-      var num = Random().nextInt(jsonData['news'].length);
+      int num = Random().nextInt(jsonData['news'].length);
       if (!newsno.contains(num)) {
         newsno.add(num);
       }
