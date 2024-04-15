@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:projectapp/Pages/const_news.dart';
 import 'package:projectapp/Pages/home.dart';
 import 'package:projectapp/Pages/game.dart';
-import 'package:projectapp/Pages/load.dart';
+import 'package:projectapp/Pages/daily.dart';
 
 
 class ProjectApp extends StatefulWidget {
@@ -14,7 +14,6 @@ class ProjectApp extends StatefulWidget {
 
 class _ProjectAppState extends State<ProjectApp> {
   int _selectedIndex = 0;
-
   void _navigateBottomBar(int index){
     setState(() {
       _selectedIndex = index;
@@ -24,12 +23,13 @@ class _ProjectAppState extends State<ProjectApp> {
 
   final List _pages =[
     ConstNews(),
-    Load(),
+    Daily(),
     Game(),
     Home()
   ];
 
   @override
+
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(

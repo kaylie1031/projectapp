@@ -1,47 +1,48 @@
-import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-Future<String> fetchWebPageContent(String url) async {
-  final response = await http.get(Uri.parse(url));
-  if (response.statusCode == 200) {
-    return response.body;
-  } else {
-    throw Exception('Failed to load web page');
-  }
-}
+import 'package:projectapp/FetchNews.dart';
+
+List<int> newsNo = [];
+
 class Daily extends StatefulWidget {
-  const Daily({Key? key}) : super(key: key);
+  Daily({Key? key}) : super(key: key);
 
   @override
   State<Daily> createState() => _DailyState();
 }
 
 class _DailyState extends State<Daily> {
-  Map data = {};
-  String? webPageContent;
   @override
   void initState() {
     super.initState();
-    fetchWebPageContent('https://www.spacechina.com/n25/n1991299/n1991338/index.html').then((content) {
-      setState(() {
-        webPageContent = content;
-      });
-    }).catchError((error) {
-      print('Error: $error');
-    });
+    _initializeNewsListIfNeeded(); // Remove await
   }
-  Widget build(BuildContext context) {
-    final data = (ModalRoute.of(context)!.settings.arguments! as Map);
 
+  Future<void> _initializeNewsList() async {
+    GetNews getNews = GetNews();
+    await getNews.generateNewsList(); // Wait for the generateNewsList method to complete
+    print('getNews.news: ${getNews.news}'); // Print the news list from GetNews
+
+    if (getNews.news.isNotEmpty) {
+      newsNo = getNews.news;
+    } else {
+      print('News list is empty');
+    }
+  }
+
+  Future<void> _initializeNewsListIfNeeded() async {
+    if (newsNo.isEmpty) {
+      await _initializeNewsList(); // Now it's valid to use await
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
     return Scaffold(
       body: ListView(
         children: [
           ElevatedButton(
             onPressed: () {
-              for (var i = 0; i < (data["data"]["organic"].length); i++){
-                print(data["data"]["organic"][i]);
-              }
-              print(webPageContent!);
+              print(newsNo);
             },
             child: Text('Hi'),
           ),

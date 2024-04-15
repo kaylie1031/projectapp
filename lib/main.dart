@@ -8,7 +8,12 @@ import 'package:projectapp/Pages/const_news%20page/cnews_5.dart';
 import 'package:projectapp/Pages/const_news%20page/cnews_6.dart';
 import 'package:projectapp/Pages/const_news%20page/cnews_7.dart';
 import 'package:projectapp/Pages/const_news%20page/cnews_8.dart';
-import 'package:projectapp/Pages/daily.dart';
+import 'package:projectapp/Pages/const_news%20page/cnews_9.dart';
+import 'package:projectapp/Pages/const_news%20page/cnews_10.dart';
+import 'package:projectapp/Pages/const_news%20page/cnews_11.dart';
+import 'package:projectapp/Pages/const_news%20page/cnews_12.dart';
+import 'package:projectapp/Pages/const_news%20page/cnews_13.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -31,7 +36,11 @@ class MyApp extends StatelessWidget {
          '/const_news6': (context) => CNews6(),
          '/const_news7': (context) => CNews7(),
          '/const_news8': (context) => CNews8(),
-         '/dailynews': (context) => Daily(),
+         '/const_news9': (context) => CNews9(),
+         '/const_news10': (context) => CNews10(),
+         '/const_news11': (context) => CNews11(),
+         '/const_news12': (context) => CNews12(),
+         '/const_news13': (context) => CNews13(),
        },
      );
   }
