@@ -4,7 +4,7 @@
             "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-10:/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\a3fbb37dd5ef93c98bc80ddf0289d0af\\transformed\\browser-1.5.0\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\414949e7dfcb9b10442c2a1a86ec9bb2\\transformed\\browser-1.5.0\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\0b9c903fef8d2eb2a269c36999ef4a74\\transformed\\core-1.10.1\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\24f0f4eb71349d89225a0d4480b42bbc\\transformed\\core-1.10.1\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -43,7 +43,7 @@
             "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-merged_res-12:/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\a3fbb37dd5ef93c98bc80ddf0289d0af\\transformed\\browser-1.5.0\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\414949e7dfcb9b10442c2a1a86ec9bb2\\transformed\\browser-1.5.0\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -60,7 +60,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\0b9c903fef8d2eb2a269c36999ef4a74\\transformed\\core-1.10.1\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\wkclk\\.gradle\\caches\\transforms-3\\24f0f4eb71349d89225a0d4480b42bbc\\transformed\\core-1.10.1\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
