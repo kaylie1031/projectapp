@@ -37,7 +37,7 @@ class _RulespageState extends State<Rulespage> {
                   child:Column(
                     children: [
                       StrokeText(
-                        text: '游戲規則：\n    熒幕上會出現一條關於國航科技的題目， 下方會有四個選項。\n    請選出正確答案，答對加10分，答錯不扣分。\n   總共10條題目，每條限時30秒\n   請在限時結束前回答，過時算作答錯。\n   準備好就可以按下方按鈕開始游戲！',
+                        text: '游戲規則：\n    熒幕上會出現一條關於國航科技的題目， 下方會有四個選項。\n    請選出正確答案，答對加10分，答錯不扣分。\n   總共10條題目\n   準備好就可以按下方按鈕開始游戲！',
                         textStyle: TextStyle(
                           fontSize: 30,
                           color: Colors.white,

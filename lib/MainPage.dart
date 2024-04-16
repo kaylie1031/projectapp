@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:projectapp/Pages/const_news.dart';
-import 'package:projectapp/Pages/home.dart';
 import 'package:projectapp/Pages/gameINIT.dart';
 import 'package:projectapp/Pages/daily.dart';
 
@@ -25,7 +24,6 @@ class _ProjectAppState extends State<ProjectApp> {
     ConstNews(),
     Daily(),
     Game(),
-    Home()
   ];
 
   @override
@@ -69,10 +67,7 @@ class _ProjectAppState extends State<ProjectApp> {
               label: 'Game'
           ),
           //home
-          BottomNavigationBarItem(
-              icon: Icon(Icons.home,color: Colors.white),
-              label: 'Home'
-          ),
+
         ],
       ),
     );

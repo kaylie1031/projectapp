@@ -23,7 +23,7 @@ class _DailyState extends State<Daily> {
     GetNews getNews = GetNews();
     await getNews.generateNewsList();
     print('getNews.news: ${getNews.news}');
-    if (getNews.news.isNotEmpty) {
+    if (getNews.news.isNotEmpty ) {
       setState(() {
         newsNo = getNews.news;
         jsonNews = getNews.jsonData['news'].cast<Map<String, dynamic>>(); // Update the assignment to jsonNews
@@ -44,6 +44,7 @@ class _DailyState extends State<Daily> {
     return Scaffold(
       body: ListView(
         children: [
+          // ElevatedButton(onPressed: (){print(jsonNews);}, child: Text('hi'))
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
@@ -55,9 +56,9 @@ class _DailyState extends State<Daily> {
                   children: [
                     ClipRRect(
                       borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(8.0),
-                      topRight: Radius.circular(8.0),
-                    ),
+                        topLeft: Radius.circular(8.0),
+                        topRight: Radius.circular(8.0),
+                      ),
                       child: Image.network(
                           jsonNews[newsNo[0]]["imageUrl"],
                           // width: 300,
@@ -66,14 +67,14 @@ class _DailyState extends State<Daily> {
                       ),
                     ),
                     Text(
-                        jsonNews[newsNo[0]]["snippet"],
+                      jsonNews[newsNo[0]]["snippet"],
                       style: TextStyle(
-                        fontSize: 20
+                          fontSize: 20
                       ),
                     ),
                     InkWell(
-                      child: Text(jsonNews[newsNo[0]]["link"]),
-                      onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[0]]["link"]))//url
+                        child: Text(jsonNews[newsNo[0]]["link"]),
+                        onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[0]]["link"]))//url
                     )
                   ],
                 ),
@@ -91,9 +92,9 @@ class _DailyState extends State<Daily> {
                   children: [
                     ClipRRect(
                       borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(8.0),
-                      topRight: Radius.circular(8.0),
-                    ),
+                        topLeft: Radius.circular(8.0),
+                        topRight: Radius.circular(8.0),
+                      ),
                       child: Image.network(
                           jsonNews[newsNo[1]]["imageUrl"],
                           // width: 300,
@@ -102,14 +103,14 @@ class _DailyState extends State<Daily> {
                       ),
                     ),
                     Text(
-                        jsonNews[newsNo[1]]["snippet"],
+                      jsonNews[newsNo[1]]["snippet"],
                       style: TextStyle(
-                        fontSize: 20
+                          fontSize: 20
                       ),
                     ),
                     InkWell(
-                      child: Text(jsonNews[newsNo[1]]["link"]),
-                      onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[1]]["link"]))//url
+                        child: Text(jsonNews[newsNo[1]]["link"]),
+                        onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[1]]["link"]))//url
                     )
                   ],
                 ),
@@ -127,9 +128,9 @@ class _DailyState extends State<Daily> {
                   children: [
                     ClipRRect(
                       borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(8.0),
-                      topRight: Radius.circular(8.0),
-                    ),
+                        topLeft: Radius.circular(8.0),
+                        topRight: Radius.circular(8.0),
+                      ),
                       child: Image.network(
                           jsonNews[newsNo[2]]["imageUrl"],
                           // width: 300,
@@ -138,14 +139,14 @@ class _DailyState extends State<Daily> {
                       ),
                     ),
                     Text(
-                        jsonNews[newsNo[2]]["snippet"],
+                      jsonNews[newsNo[2]]["snippet"],
                       style: TextStyle(
-                        fontSize: 20
+                          fontSize: 20
                       ),
                     ),
                     InkWell(
-                      child: Text(jsonNews[newsNo[2]]["link"]),
-                      onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[2]]["link"]))//url
+                        child: Text(jsonNews[newsNo[2]]["link"]),
+                        onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[2]]["link"]))//url
                     )
                   ],
                 ),
@@ -163,9 +164,9 @@ class _DailyState extends State<Daily> {
                   children: [
                     ClipRRect(
                       borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(8.0),
-                      topRight: Radius.circular(8.0),
-                    ),
+                        topLeft: Radius.circular(8.0),
+                        topRight: Radius.circular(8.0),
+                      ),
                       child: Image.network(
                           jsonNews[newsNo[3]]["imageUrl"],
                           // width: 300,
@@ -174,14 +175,14 @@ class _DailyState extends State<Daily> {
                       ),
                     ),
                     Text(
-                        jsonNews[newsNo[3]]["snippet"],
+                      jsonNews[newsNo[3]]["snippet"],
                       style: TextStyle(
-                        fontSize: 20
+                          fontSize: 20
                       ),
                     ),
                     InkWell(
-                      child: Text(jsonNews[newsNo[3]]["link"]),
-                      onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[3]]["link"]))//url
+                        child: Text(jsonNews[newsNo[3]]["link"]),
+                        onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[3]]["link"]))//url
                     )
                   ],
                 ),
@@ -199,9 +200,9 @@ class _DailyState extends State<Daily> {
                   children: [
                     ClipRRect(
                       borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(8.0),
-                      topRight: Radius.circular(8.0),
-                    ),
+                        topLeft: Radius.circular(8.0),
+                        topRight: Radius.circular(8.0),
+                      ),
                       child: Image.network(
                           jsonNews[newsNo[4]]["imageUrl"],
                           // width: 300,
@@ -210,14 +211,14 @@ class _DailyState extends State<Daily> {
                       ),
                     ),
                     Text(
-                        jsonNews[newsNo[4]]["snippet"],
+                      jsonNews[newsNo[4]]["snippet"],
                       style: TextStyle(
-                        fontSize: 20
+                          fontSize: 20
                       ),
                     ),
                     InkWell(
-                      child: Text(jsonNews[newsNo[4]]["link"]),
-                      onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[4]]["link"]))//url
+                        child: Text(jsonNews[newsNo[4]]["link"]),
+                        onTap: () => launchUrl(Uri.parse(jsonNews[newsNo[4]]["link"]))//url
                     )
                   ],
                 ),

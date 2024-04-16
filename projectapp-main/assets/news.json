@@ -1,0 +1,830 @@
+{
+  "searchParameters": {
+    "q": "航天科技成就",
+    "gl": "cn",
+    "hl": "zh-cn",
+    "type": "news",
+    "num": 100,
+    "engine": "google"
+  },
+  "news": [
+    {
+      "title": "老外看中国太空探索：成就非凡世界瞩目",
+      "link": "https://china.chinadaily.com.cn/a/202305/30/WS6475951ea31053798937696b.html",
+      "snippet": "5月30日，神舟十六号载人飞船发射取得圆满成功。对于中国近年来在太空探索中取得的成就，国际社会有目共睹。",
+      "date": "10 个月前",
+      "source": "China Daily",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYS6kVVHa-AbvXDDnQBa9cv14nwBbtnJyiB3vb3c3bXsjGp3PIegnyKoCKA&s",
+      "position": 1
+    },
+    {
+      "title": "2023，中国航天再启新程- 中华人民共和国国防部",
+      "link": "http://www.mod.gov.cn/gfbw/gfjy_index/zyhd/4931816.html",
+      "snippet": "《中国航天科技活动蓝皮书（2022年）》发布——. 2023，中国航天再启新程. 星空浩瀚无比，探索永无止境。 1月18日，中国航天科技集团有限公司发布...",
+      "date": "14 个月前",
+      "source": "中华人民共和国国防部",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cJlvptmiQO0eviKY_G8BWt2kKb42Jmp7A7fRjlYMxOZH1i9rCdZyru1-SA&s",
+      "position": 2
+    },
+    {
+      "title": "中国航天新年新飞跃--经济·科技--人民网",
+      "link": "http://finance.people.com.cn/n1/2023/0112/c1004-32604675.html",
+      "snippet": "1月9日6时，在中国文昌航天发射场，长征七号改运载火箭成功将实践二十三号卫星发射升空。2023年中国航天发射取得开门红。",
+      "date": "15 个月前",
+      "source": "人民网财经",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZQ0ltHM2F4gK16JmP9MYH7FOezG5avTCigrRUJOD394Q-Rk1HL0l1XFD0Q&s",
+      "position": 3
+    },
+    {
+      "title": "中国航天博物馆揭幕全方位展示航天成就",
+      "link": "https://www.takungpao.com/news/232108/2022/1117/787824.html",
+      "snippet": "图：中国航天博物馆展示长征系列火箭模型等展品。\\大公报记者刘凝哲摄. 【大公报讯】记者刘凝哲北京报道：11月16日，在中国运载火箭技术研究院（下...",
+      "date": "16 个月前",
+      "source": "大公网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9onWAcHicyuAbhmewM_jAkQjzW2XLeP_8_gvApY8g8gXipZTRdP6wyGFP-g&s",
+      "position": 4
+    },
+    {
+      "title": "勇攀高峰追求卓越全面开启航天强国建设新征程",
+      "link": "https://news.gmw.cn/2021-06/23/content_34941246.htm",
+      "snippet": "65年来，在党中央、国务院、中央军委的正确领导下，中国航天事业从无到有、从小到大、从弱到强，攻克了一个又一个技术难关，实现了一个又一个重大跨越...",
+      "date": "33 个月前",
+      "source": "光明网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBE1i1dgv4MYU-aZLeWmOhA7xKiDC6v0XVArAZXuoE1GKZNxlZk-7kNJTg7w&s",
+      "position": 5
+    },
+    {
+      "title": "太空精酿:中国航天超级2020：十大成就盘点_作品展示_移动融合创作",
+      "link": "http://www.kepu.net.cn/ydrhcz/ydrhcz_zpzs/ydrh_2020/202012/t20201229_492085.html",
+      "snippet": "2020年，人类面临了众多前所未有的巨大挑战，在超难模式下，中国航天不断创造奇迹，又迎来了厚积薄发的一年，在新型火箭首飞、卫星导航系统、月球与深...",
+      "date": "39 个月前",
+      "source": "中国科普博览",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIpCe9PYouaOjreqtL6sTyTHAbH_42awUcOKMy7UEVVPQN8PvQVpz_g5iyA&s",
+      "position": 6
+    },
+    {
+      "title": "航天日走进中国航天博物馆_中证网",
+      "link": "https://www.cs.com.cn/xwzx/hg/202304/t20230425_6339939.html",
+      "snippet": "4月24日，观众在中国航天博物馆参观。 当日是中国航天日，中国航天博物馆在重新装修布展后向公众开放。中国航天博物馆前身为中华航天博物馆，于1992年...",
+      "date": "11 个月前",
+      "source": "中证网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXQG31wKu5oVcM75uNIUxrC7Yu9DNZ5q5Ep7kIujOjkd2MczWF7QQpJdIVg&s",
+      "position": 7
+    },
+    {
+      "title": "镜观·领航丨总书记心系航天事业",
+      "link": "http://www.xinhuanet.com/politics/2021-06/24/c_1127592473.htm",
+      "snippet": "6月23日，中共中央总书记、国家主席、中央军委主席习近平来到北京航天飞行控制中心，同正在天和核心舱执行任务的神舟十二号航天员聂海胜、刘伯明、汤...",
+      "date": "33 个月前",
+      "source": "新华网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6tadAirA-4_hKphwo1NYj-W6OksruUcFnHeWa9B8MJJhuy_XFdCer461rw&s",
+      "position": 8
+    },
+    {
+      "title": "探月精神：“敢上九天揽月”",
+      "link": "http://www.qstheory.cn/zhuanqu/2022-05/01/c_1128607972.htm",
+      "snippet": "2020年12月17日凌晨1：59，内蒙古四子王旗白雪皑皑。历经23天的太空之旅，嫦娥五号返回器如流星般划破天际，携带着月球岩石和土壤样品安全抵达着陆场...",
+      "date": "23 个月前",
+      "source": "求是网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcT42KvXT3znjJIwYR0LU_45cWMgT9QTezvzArW9FgQBT-6W6T3mqz7bhKg&s",
+      "position": 9
+    },
+    {
+      "title": "激荡爱国情怀再攀科技高峰——港澳各界高度评价中国载人航天工程代表团来访",
+      "link": "http://www.news.cn/2023-12/04/c_1130006751.htm",
+      "snippet": "11月30日，神舟十五号乘组航天员张陆（左）将书法作品赠予香港科技大学校长叶玉如（右）。新华社记者吕小炜摄. 新华社香港/澳门12月3日电（记者...",
+      "date": "4 个月前",
+      "source": "新华网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_HmW5THHEyLhaFxGTVvNP-UzYFCidXXlnh0qjgPlulGRHmFgB9NwrARoGA&s",
+      "position": 10
+    },
+    {
+      "title": "中国太空文化：英国学者解读寓意和影响",
+      "link": "https://www.bbc.com/zhongwen/simp/science-57639088",
+      "snippet": "天宫、嫦娥、神舟......什么是“中国太空文化”？为什么说它对美国NASA的太空文化霸主地位构成挑战？",
+      "date": "33 个月前",
+      "source": "BBC",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVavXCmyvtyOdcaSIMHWKuFB97zMDe8vXPxi47aLswKHp9eDv-dNsanvMIA&s",
+      "position": 11
+    },
+    {
+      "title": "中国航天博物馆正式开馆公众可沉浸式体验空间站生活——中国青年网",
+      "link": "http://news.youth.cn/gn/202211/t20221117_14137247.htm",
+      "snippet": "今天，在中国运载火箭技术研究院成立65周年之际，中国航天博物馆正式宣布开馆。中国运载火箭技术研究院、中国航天博物馆供图“两弹一星”元勋和航天精神...",
+      "date": "16 个月前",
+      "source": "中国青年网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPKA43GCfAZR3a7hvkLEIjcM9ICMdlJ4Qqu414S7P-0RSv1qSQh0ECvmRvQ&s",
+      "position": 12
+    },
+    {
+      "title": "重磅！2023何梁何利奖全名单公布-高校科技",
+      "link": "https://www.edu.cn/rd/zui_jin_geng_xin/202312/t20231220_2549866.shtml",
+      "snippet": "12月19日，何梁何利基金2023年度颁奖大会在北京隆重举行，2023年度何梁何利基金科学与技术奖共授予56名杰出科技工作者。",
+      "date": "3 个月前",
+      "source": "中国教育和科研计算机网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsI6RO1Rvr9JbJf_5rx3q1RTSYaWUGjkFb6CyE46y2aVl8KuGfd0jkW-cyGA&s",
+      "position": 13
+    },
+    {
+      "title": "习主席在历年新年贺词中点赞的科技成就-封面新闻",
+      "link": "http://www.stdaily.com/cehua/Dec31th/fmxw.shtml",
+      "snippet": "自2014年新年起，习近平主席每年发表的新年贺词，带领我们共同回望来路的辉煌成就，眺望前方的光明征程。每每聆听，总让我们倍感温暖、满怀豪情。这些成就凝结着新时代...",
+      "date": "27 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEA23MC0VH3SDWe6kGy-9qwdtLZtBevF6aa9A0A9lM333bvdk6T1HdOJ1i_A&s",
+      "position": 14
+    },
+    {
+      "title": "聚焦中国航天：从航天大国迈向航天强国",
+      "link": "https://news.hsw.cn/system/2022/1010/1531375.shtml",
+      "snippet": "【十年答卷】. 最近，中国航天很火。 通过嫦娥五号带回的月壤，我们发现了月球上的新矿物“嫦娥石”。借助天问一号和“祝融号”火星车，我们发现火星上真...",
+      "date": "18 个月前",
+      "source": "华商网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgkp1W8WNHyHmZ1bwKOl7upE5DOMAQklZhV3K9PKvtlIewjpDFTErWDMoig&s",
+      "position": 15
+    },
+    {
+      "title": "中国载人航天首次全面公开展示30年成就——中国青年网",
+      "link": "https://news.youth.cn/gn/202302/t20230224_14344177.htm",
+      "snippet": "中国青年报客户端北京2月24日电（中青报·中青网记者邱晨辉）今天下午，“逐梦寰宇问苍穹——中国载人航天工程三十年成就展”开幕式在中国国家博物馆西大厅...",
+      "date": "13 个月前",
+      "source": "中国青年网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZn4pgdwSRyStAUPwOZRIQGaRFSmHPX6CPBDBYAODjzrryCpaAJkf_kw_Wg&s",
+      "position": 16
+    },
+    {
+      "title": "习近平的航天情缘",
+      "link": "http://www.qstheory.cn/zdwz/2019-11/22/c_1125260249.htm",
+      "snippet": "20年前的11月20日，我国第一艘载人航天实验飞船神舟一号成功发射升空。这是我国实施载人航天工程的第一次飞行试验，是我国航天史上的重要里程碑。",
+      "date": "52 个月前",
+      "source": "求是网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ohoKHJcCYQ8FCaXUGjOgXaKvf2AnHU5zdmZsW3gX5fIAljVOw663Ib7j-A&s",
+      "position": 17
+    },
+    {
+      "title": "习近平托举中国航天梦：缘起“东方红” 心系外太空--专题报道-人民网",
+      "link": "http://cpc.people.com.cn/xuexi/n1/2016/0425/c385474-28300719.html",
+      "snippet": "2013年6月11日，习近平总书记来到酒泉卫星发射中心航天员公寓问天阁，为即将出征的航天员壮行。新华社记者李学仁摄【学习路上按】4月24日，首个“中国...",
+      "date": "95 个月前",
+      "source": "中国共产党新闻网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpimhnjhz9HrdqJx9A3o82H-tej9qmazOVpwMAlqt8JQzWc0CO6ukXVhzsVQ&s",
+      "position": 18
+    },
+    {
+      "title": "中国载人航天工程30年成就展：看“热闹”，也要看门道--经济·科技--人民网",
+      "link": "http://finance.people.com.cn/n1/2023/0301/c1004-32634194.html",
+      "snippet": "2月24日，“逐梦寰宇问苍穹”中国载人航天工程30年成就展在国家博物馆开展，展厅里的一件件展品，都是中国载人航天追求卓越、不断创新的印迹。",
+      "date": "13 个月前",
+      "source": "人民网财经",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FwWPghQbJn3cyVoX4lw4UXmObr4r-jCHsU5cjM8MP_gTtazMVnVXnu89kQ&s",
+      "position": 19
+    },
+    {
+      "title": "树立热爱科学、崇尚科学的社会风尚（今日谈）",
+      "link": "http://paper.people.com.cn/rmrb/html/2023-03/27/nw.D110000renmrb_20230327_6-01.htm",
+      "snippet": "中国国家博物馆正在展出的“逐梦寰宇问苍穹——中国载人航天工程30年成就展”，掀起了参观热潮。可步入舱内参观的天和核心舱1∶1模型，两套中国自主研发...",
+      "date": "12 个月前",
+      "source": "人民日报-人民网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWsduSvCxYLZfOkcGhLLyaswVCHm9jpQqnpuAZ6ZfQ3lgixp4Qaogeizyqrw&s",
+      "position": 20
+    },
+    {
+      "title": "资讯丨火箭院举办“庆祝建院65周年暨中国航天博物馆开馆仪式”_系统_文化_精神",
+      "link": "https://www.sohu.com/a/607539913_426335",
+      "snippet": "火箭院长征系列运载火箭首席总师、中国科学院院士、中国航天博物馆馆长姜杰在采访时说，中国航天博物馆作为航天系统唯一的国家级专业博物馆，...",
+      "date": "16 个月前",
+      "source": "搜狐网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfY51iYFulCk-EXf7NTyzrR_s56FdRcfgIu7gpNMgrSlZCozHltviopE5KA&s",
+      "position": 21
+    },
+    {
+      "title": "探索航天科教新生态太空漫步航天科技艺术展·长沙站开幕-星辰头条",
+      "link": "https://news.changsha.cn/xctt/html/110187/20230804/150547.shtml",
+      "snippet": "8月4日上午，由湖南省科学技术协会指导，航天长城卫星导航、湖南省展览馆联合主办的“太空漫步航天科技艺术展·长沙站”开幕式暨长沙首届航天科普教育...",
+      "date": "8 个月前",
+      "source": "星辰在线",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5j_AYAGUPkcWaEMpO5i4L7HU1FxIgV98EEVweK4YUeg7iVjbnOhTnWue1g&s",
+      "position": 22
+    },
+    {
+      "title": "多国人士：中国在航天科技领域的成就将造福全世界",
+      "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202206/06/t20220606_37725381.shtml",
+      "snippet": "央视网消息：多国人士指出，神舟十四号载人飞船的成功发射标志着中国空间站任务转入建造阶段后的首次载人飞行任务正式开启，意义重大，中国在航天科技...",
+      "date": "22 个月前",
+      "source": "中国经济网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2fKPL27RkVZtEAQ9UIydDMHlNLrG0PUDaDzgGOHDEBylYtPZ6mHSirkKeg&s",
+      "position": 23
+    },
+    {
+      "title": "震惊！5年来，中国诞生了这么多高科技成就！ - 中国日报网",
+      "link": "https://china.chinadaily.com.cn/2017-09/26/content_32502577.htm",
+      "snippet": "十八大以来令国人自豪、令世界人民震惊的高科技成就，它们是什么？有哪些让我们印象深刻？快来一起看看吧！",
+      "date": "78 个月前",
+      "source": "China Daily",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRzLXzradW8B2cAyOvXaeh_IDCxmS3LHjMWa3eXjJGdA36vi5L03STzq4jA&s",
+      "position": 24
+    },
+    {
+      "title": "航天合作提升中非友谊新高度",
+      "link": "http://www.xinhuanet.com/politics/2018-09/09/c_1123400487.htm",
+      "snippet": "中国援建埃及卫星总装集成及测试中心项目效果图（来自网络）. 二〇一七年十二月，阿尔及利亚首颗通信卫星在中国西昌卫星发射中心成功发射入轨，开辟了...",
+      "date": "67 个月前",
+      "source": "新华网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXAq7ed_H4J0AZ3N4fysipry-ELTHsbjvpAxvxAA9SzmCpmqlsf9AlmwOkWQ&s",
+      "position": 25
+    },
+    {
+      "title": "【作品征集】中国科技馆“寰宇寻梦描绘九天”航天主题绘画作品征集活动正式启动！",
+      "link": "https://www.cdstm.cn/activity/dtcj/202403/t20240322_1079631.html",
+      "snippet": "2024年4月24日是第九个“中国航天日”。回望2023年，中国航天可谓异彩纷呈。《中国航天科技活动蓝皮书(2023年)》显示，2023年全年实施67次发射任务，位...",
+      "date": "3 周前",
+      "source": "中国数字科技馆",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdYTJsyPcgz4ebzRiVYsAc4K-WoqX7w2q8On2cOuEynMjTjypt1Avx0xJCg&s",
+      "position": 26
+    },
+    {
+      "title": "中科院院士包为民获“钱学森最高成就奖”—新闻—科学网",
+      "link": "https://news.sciencenet.cn/htmlnews/2022/11/489952.shtm",
+      "snippet": "中科院院士包为民获“钱学森最高成就奖”。 西安电子科大供图. 11月21日，2022年中国航天大会/2022文昌国际航空航天论坛在海南省海口市开幕。",
+      "date": "16 个月前",
+      "source": "科学网—新闻",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1CJwbHllInrse_ajS7AfdELneFAp0xwHYXVy_5n1eQaXJK88rfsAAGdV3g&s",
+      "position": 27
+    },
+    {
+      "title": "大公报120周年| 东方红到神十四大公见证太空梦",
+      "link": "https://www.takungpao.com/news/232109/2022/0607/727929.html",
+      "snippet": "图：中国航天大事记。 “发展航天事业，建设航天强国，是我们不懈追求的航天梦。” 中国人探索太空的每一步都响彻星空。从无人到载人，从一人到多人，从...",
+      "date": "22 个月前",
+      "source": "大公网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmra0u4Y3L6d309didCWXpN5H8_Vrl3BWwAXS5cg67I01RMlD7i_qsx2aYyw&s",
+      "position": 28
+    },
+    {
+      "title": "美国阿波罗登月50年给地球人带来的八大变化",
+      "link": "https://www.bbc.com/ukchina/simp/48857965",
+      "snippet": "美国宇航局阿波罗登月计划不但是世界科技史上的一大里程碑，也给地球人的日常生活带来不少改变。",
+      "date": "57 个月前",
+      "source": "BBC",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyjobyrm1zWZA-0ta1cGIlWaZT9YijaoJwPCsoOovk1wRtgJT9rcVifX5gA&s",
+      "position": 29
+    },
+    {
+      "title": "习近平谈航天梦_中国经济网——国家经济门户",
+      "link": "http://www.ce.cn/xwzx/gnsz/szyw/201609/16/t20160916_15958517.shtml",
+      "snippet": "9月15日22时04分，搭载天宫二号空间实验室的长征二号F T2运载火箭，在我国酒泉卫星发射中心点火发射，约575秒后，天宫二号与火箭成功分离，进入预定...",
+      "date": "90 个月前",
+      "source": "中国经济网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrr5pLYN2IKev6X-R2UZsSmYRdwxNCu0HHSVzPccfqqmNhuFlfGZVxq-EQYQ&s",
+      "position": 30
+    },
+    {
+      "title": "西电人获奖+4！包为民院士获得“钱学森最高成就奖”",
+      "link": "https://shx.chinadaily.com.cn/a/202211/23/WS637d749ea3109bd995a51875.html",
+      "snippet": "11月21日，2022年中国航天大会/2022文昌国际航空航天论坛在海南省海口市隆重开幕。大会开幕式上揭晓了2021年度中国航天基金会奖评选结果。",
+      "date": "16 个月前",
+      "source": "China Daily",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6APj0TUZaSdxIBQEJTVFo9hBN8hp-CwrulgdcZIL-D2Fr0HIx73TT0Bvesw&s",
+      "position": 31
+    },
+    {
+      "title": "三维儿童动画片《航天双子星》在京首映--经济·科技--人民网",
+      "link": "http://finance.people.com.cn/n1/2022/1102/c1004-32557274.html",
+      "snippet": "儿童动画系列片《航天双子星》在中国科技馆举办首映仪式。中国空间技术研究院供图人民网北京11月2日电（记者赵竹青）11月1日，在中国空间站梦天实验舱...",
+      "date": "17 个月前",
+      "source": "人民网财经",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3ZFkON3dkdWZHl9TAUSaug8U8QzA8cH_GFtRzRYBcWbU_xRXcsO8uyfgDQ&s",
+      "position": 32
+    },
+    {
+      "title": "升级改造后的中国航天博物馆盛大开馆啦！_观众_火箭_精神",
+      "link": "https://www.sohu.com/a/609111916_120971237",
+      "snippet": "展陈内容包括中国航天历史和精神、导弹武器、运载火箭、人造卫星、载人航天、深空探测、航天人物、未来展望、天问书苑、多功能厅十大板块。",
+      "date": "16 个月前",
+      "source": "搜狐",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Lmw63-2ziunNAAWT0OptylXOCr7_heK0Hqz1fkseji4hfUeHuzVtaR5SDA&s",
+      "position": 33
+    },
+    {
+      "title": "辉煌成就五十五载铿锵步伐砥砺前行——航天科技集团四院7416 厂建厂55 周年发展纪实",
+      "link": "http://www.infomorning.com/home/Index/details/pid/5/cid/22/id/24331.html",
+      "snippet": "今年是中国共产党的百年华诞。在中国共产党的领导下，中国航天科技集团有限公司四院7416厂走过了55年的奋斗历程。 作为航天强国和国防建设的主力...",
+      "date": "34 个月前",
+      "source": "信息早报",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FOnQiYzLj2PrRtnMIUxJZ7yuwjv_uYuNARJmB40V8WbP7HZlDhKyIV78DQ&s",
+      "position": 34
+    },
+    {
+      "title": "“天宫课堂”地面课堂在南宁市科技馆同步举办",
+      "link": "http://gx.people.com.cn/n2/2022/0324/c401507-35190609.html",
+      "snippet": "3月23日，“天宫课堂”第二课开讲，南宁市科技馆积极参与“天宫课堂”全国科技馆体系联合行动，在航天世界展厅同步开设地面课堂，进一步激发公众对宇宙...",
+      "date": "24 个月前",
+      "source": "人民网-广西频道",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVJvy-sE9k0mEBm8cx7OC8OzyQJxJgnxUd0Bi7vRIYTtxZGviORi-cQEhDw&s",
+      "position": 35
+    },
+    {
+      "title": "港官员：支持香港高校进行航天科技教育研究培育人才",
+      "link": "https://www.zaobao.com.sg/realtime/china/story20231201-1453451",
+      "snippet": "香港特区政府创新科技及工业局局长孙东说，特区政府会继续支持大学进行航天科技教育与研究，培育更多优秀的科研人才，为国家的航天科技事业发展注入新...",
+      "date": "4 个月前",
+      "source": "联合早报",
+      "position": 36
+    },
+    {
+      "title": "让我们一起探索星辰大海海博馆航天科技成果主题展开展侧记_卫星_讲座_科普",
+      "link": "https://www.sohu.com/a/625614065_121443915",
+      "snippet": "由国家海洋博物馆、国家国防科技工业局新闻宣传中心联合主办的“探索·星辰大海”航天科技成果主题展昨天在国家海洋博物馆大临展厅正式开展。100余件珍贵展品...",
+      "date": "15 个月前",
+      "source": "搜狐",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvW2zZXrkolyeZPfXJUmOaVEX_-8PQOZ8hvZiaSG20wglqYnS_ZwjYDvMd4Q&s",
+      "position": 37
+    },
+    {
+      "title": "中国有梦青春无悔——习近平五四青年节参加主题团日活动侧记--新闻报道-人民网",
+      "link": "http://cpc.people.com.cn/n/2013/0506/c64094-21371610.html",
+      "snippet": "5月4日，中共中央总书记、国家主席、中央军委主席习近平来到中国航天科技集团公司中国空间技术研究院，同各界优秀青年代表座谈并发表重要讲话。",
+      "date": "131 个月前",
+      "source": "中国共产党新闻网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEp-UiHOzArrEI4stL8IJxzV20tyP8rXAjjYRAqV8-HAKDy9hukRRhZEb0A&s",
+      "position": 38
+    },
+    {
+      "title": "“天团”抵港魅力难挡小航天迷：好期待！",
+      "link": "https://www.takungpao.com/news/232109/2021/0623/600468.html",
+      "snippet": "图：香港中联办主任骆惠宁（前排左四）在办内会见来港出席时代精神耀香江系列活动的航天科学家访港团，与中国工程院院士、长征系列火箭.",
+      "date": "33 个月前",
+      "source": "大公网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc95S0QpNCDSlF9X_NxfbSyn8r6186wZdBiVLVudctUsA_c6vZ_ywddCeDww&s",
+      "position": 39
+    },
+    {
+      "title": "神七航天员参加香港“大汇演” 受港人热烈欢迎-搜狐新闻",
+      "link": "http://news.sohu.com/20081207/n261066543.shtml",
+      "snippet": "真情对白，激情歌舞，童声朗诵……1个小时的“全港欢迎神舟七号载人航天飞行代表团大汇演”，演绎出全港市民欢迎航天英雄的真挚情感，更是一曲对祖国航天...",
+      "date": "184 个月前",
+      "source": "搜狐网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabn-WdZHyZ4Km2MX2bUgaHGt2mRFvtxzu5n4EFBcU0A8K1tgXnJ4KavOhEQ&s",
+      "position": 40
+    },
+    {
+      "title": "“时代精神耀濠江”系列活动正式启动",
+      "link": "https://www.gov.mo/zh-hans/news/662206/",
+      "snippet": "“时代精神耀濠江”系列活动开幕仪式于2022年12月28日在中国与葡语国家商贸合作服务平台综合体举行。开幕仪式由教育及青年发展局副局长丁少雄、中央人民...",
+      "date": "15 个月前",
+      "source": "澳門特別行政區政府入口網站",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQp_LUUa7gByswlU7OhiZ5v2UbhD9WjpmPCs0Br9o7yYQym1uhUwoyLIwnCA&s",
+      "position": 41
+    },
+    {
+      "title": "中国正能量｜一组AI海报看中国科技磅礴力量_中央网络安全和信息化委员会办公室",
+      "link": "https://www.cac.gov.cn/2024-04/02/c_1713731802575054.htm",
+      "snippet": "2023年，我国取得的科技成就硕果累累，自太空探索至地球深处，无数科技工作者在各领域辛勤耕耘，众多重大科技成果纷纷亮相，彰显了中国科技的迅猛发展...",
+      "date": "2 周前",
+      "source": "中央网络安全和信息化委员会办公室",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsGpX_1EmBr_QncMavVct4cOE1B-C8MbKvy8gNxEMSO6m_V4bcAZQRPj_xaQ&s",
+      "position": 1
+    },
+    {
+      "title": "综述：中国科技创新与世界共同前进",
+      "link": "http://www.news.cn/tech/2023-09/14/c_1129862706.htm",
+      "snippet": "综述：中国科技创新与世界共同前进---在近日的浦江创新论坛上，中国在多方面取得的科技创新成就，还有推进国际科技合作、增进人类共同福祉的理念引发...",
+      "date": "7 个月前",
+      "source": "新华网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmx9VuyxaPZy7bp-dRa0zhX_kPSaq4rsGEAnSP7XKs01metp0iQep9r5RJA&s",
+      "position": 2
+    },
+    {
+      "title": "中国正能量｜一组AI海报看中国科技磅礴力量-中新网",
+      "link": "https://www.chinanews.com.cn/chuangyi/2024/03-31/10190469.shtml",
+      "snippet": "2023年，我国取得的科技成就硕果累累，自太空探索至地球深处，无数科技工作者在各领域辛勤耕耘，众多重大科技成果纷纷亮相，彰显了中国科技的迅猛发展...",
+      "date": "2 周前",
+      "source": "中国新闻网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMhw_8k5BVfohJmYD1AOKRNFIsj0PfRtkf3sAi1ytLSO6cI1MlWKOWQ0X1Q&s",
+      "position": 3
+    },
+    {
+      "title": "这一年，我们的重大科技成就（二〇二三特别报道）--经济·科技--人民网",
+      "link": "http://finance.people.com.cn/n1/2023/1226/c1004-40146485.html",
+      "snippet": "高海拔宇宙线观测站“拉索”的广角切伦科夫望远镜阵列（WFCTA）。 任晖摄中国空间站组合体全貌。 中国载人航天工程办公室供图量子计算原型机“九章三号”...",
+      "date": "3 个月前",
+      "source": "人民网财经",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK__6jUDz94oWkMf7ZZ9sS9SMoNjUbgk_tXixS_8VgQxocj7q9am-D0-5L_w&s",
+      "position": 4
+    },
+    {
+      "title": "中国科学院杰出科技成就奖总评候选者名单公布—新闻—科学网",
+      "link": "https://news.sciencenet.cn/htmlnews/2023/11/512551.shtm",
+      "snippet": "自公布之日起15天内为异议期。如对总评候选者所作出重大成果的水平和创新性等如有异议，应以书面并实名形式向中国科学院发展规划局提出。以法人单位名义...",
+      "date": "4 个月前",
+      "source": "科学网—新闻",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYS-lNAxM9kNgFobHPOW7Zo1bQaKSJIeBrf7OTN6A7_4caiwOknAgNW4KUw&s",
+      "position": 5
+    },
+    {
+      "title": "2021年全国科技工作会议-中国科技网",
+      "link": "http://www.stdaily.com/zhuanti/stwork/2021kjgzhy.shtml",
+      "snippet": "1月5日，2021年全国科技工作会议在京召开。会议总结了2020年和“十三五”科技工作，部署2021年重点任务，为“十四五”和中长期科技发展开好局、起好步。科技部党组书记、...",
+      "date": "3 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKX7xwTwGe5-WHP9on19lkqInOiGNpfmXJrsdrPVoJbdDLxg0vDbDindgOVw&s",
+      "position": 6
+    },
+    {
+      "title": "震惊！5年来，中国诞生了这么多高科技成就！ - 中国日报网",
+      "link": "https://china.chinadaily.com.cn/2017-09/26/content_32502577.htm",
+      "snippet": "党的十八大以来，中国载人航天相继取得了神舟十号应用性首飞、长征七号首飞、天宫二号稳定运行、神舟十一号航天员中期驻留、神州十一号与天宫二号对接、天...",
+      "date": "78 个月前",
+      "source": "China Daily",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRzLXzradW8B2cAyOvXaeh_IDCxmS3LHjMWa3eXjJGdA36vi5L03STzq4jA&s",
+      "position": 7
+    },
+    {
+      "title": "必须向科技创新要答案",
+      "link": "http://paper.people.com.cn/rmrb/html/2023-05/29/nw.D110000renmrb_20230529_2-01.htm",
+      "snippet": "最长的跨海大桥、最大的5G网络、最先进的高速铁路、最远程的量子通信……新时代十年来，我国科技创新事业发生历史性、整体性、格局性重大变化，全球创新...",
+      "date": "10 个月前",
+      "source": "人民日报-人民网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT80Cqmva-oDsjJ77LX4tG_D-P2R6LWf6_3DkRH8YnSsaBres3ft6qKd6g6g&s",
+      "position": 8
+    },
+    {
+      "title": "加速迈向国际第一方阵——我国五年来科技创新成就巡礼",
+      "link": "http://www.xinhuanet.com/politics/2018-02/28/c_1122466216.htm",
+      "snippet": "新华社北京２月２８日电题：加速迈向国际第一方阵——我国五年来科技创新成就巡礼. 新华社记者陈芳、胡喆. “创新是一个民族进步的灵魂，是一个国家兴旺...",
+      "date": "73 个月前",
+      "source": "新华网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvmUC2VIC6PnkRjXpVji1ilqNS6mbEp7iIs5Of5CVaV6JvauXuE6lumjpsCA&s",
+      "position": 9
+    },
+    {
+      "title": "新中国科技成就展“一馆揽尽”，江苏省第32届科普宣传周在宁启动_新华报业网",
+      "link": "http://www.xhby.net/js/kj/202008/t20200823_6776500.shtml",
+      "snippet": "交汇点讯8月23日上午，以“科技战疫创新强国”为主题的2020年全国科技活动周暨江苏省第32届科普宣传周活动在南京科技馆拉开帷幕。",
+      "date": "43 个月前",
+      "source": "新华报业网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSVSvtdC_U1tnqH0x7328r-9jVo9UFGASt2vd3zooZC9IMYskhXjXYs0nA9g&s",
+      "position": 10
+    },
+    {
+      "title": "自然科学博物馆缘何惹人爱——中国青年网",
+      "link": "https://tech.youth.cn/wzlb/202404/t20240410_15186614.htm",
+      "snippet": "本报记者詹媛. 清明假期，自然科学类博物馆成了很多人的“新宠”。最新数据显示，假期这几天，中国科技馆日均客流量突破2万人次，3天共服务观众7万余...",
+      "date": "4 天前",
+      "source": "中国青年网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbATtpFy7A-b0lR4aIQdJadzWexKBmfexNMNNTjc3OBD93N89nkymNd5TBg&s",
+      "position": 11
+    },
+    {
+      "title": "中国计划称霸科技王座它能成功超越西方吗？",
+      "link": "https://chinese.aljazeera.net/behind-the-news/2022/8/1/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E7%A7%B0%E9%9C%B8%E7%A7%91%E6%8A%80%E7%8E%8B%E5%BA%A7%E5%AE%83%E8%83%BD%E6%88%90%E5%8A%9F%E8%B6%85%E8%B6%8A%E8%A5%BF%E6%96%B9%E5%90%97",
+      "snippet": "中国的崛起是否威胁到西方的技术领先地位？北京是否正在科学技术领域走向称霸世界？《国防一号》的这篇文章讨论了中国近年来取得的科技突破，...",
+      "date": "20 个月前",
+      "source": "الجزيرة نت",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb_QmLrlStxIKFl371tZpfs8Sc6f7Xtt0O45Cy25Hm87-kMxLX5tdEx3oIXQ&s",
+      "position": 12
+    },
+    {
+      "title": "理响中国| 改革开放为什么“行”：向科技创新要动力-思客",
+      "link": "http://www.news.cn/sikepro/20240319/25125f7174aa40779993164052b36c9a/c.html",
+      "snippet": "中国改革开放是“重要法宝”“必由之路”“关键一招”，四十五余载激流勇进，在世界版图上写下浓墨重彩的东方传奇。新时代，中国坚定不移推进全面深化改革...",
+      "date": "4 周前",
+      "source": "新华网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSak9vk1wEnowvpBRB-O8ka_kLJw1tzoTX7qOssp3_isYFunCgfSF4hCivcw&s",
+      "position": 13
+    },
+    {
+      "title": "“2021全球十大工程成就”发布-中国科技网",
+      "link": "http://stdaily.com/index/kejixinwen/2021-12/14/content_1238868.shtml",
+      "snippet": "工程造福人类，科技开创未来。过去几年，哪些重大工程科学和技术深刻影响我们的生活？12月14日，由中国工程院院刊《Engineering》评选的“2021全球十大...",
+      "date": "28 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyRT5Tfm-ANgTs4cBahiR8OvGDygUpypEIOBbhZ5crv88-_0HolVRPboVkQ&s",
+      "position": 14
+    },
+    {
+      "title": "老外看中国太空探索：成就非凡世界瞩目",
+      "link": "https://china.chinadaily.com.cn/a/202305/30/WS6475951ea31053798937696b.html",
+      "snippet": "5月30日，神舟十六号载人飞船发射取得圆满成功。对于中国近年来在太空探索中取得的成就，国际社会有目共睹。",
+      "date": "10 个月前",
+      "source": "China Daily",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYS6kVVHa-AbvXDDnQBa9cv14nwBbtnJyiB3vb3c3bXsjGp3PIegnyKoCKA&s",
+      "position": 15
+    },
+    {
+      "title": "【海报】这些大国工程，彰显中国科技实力",
+      "link": "https://cn.chinadaily.com.cn/a/202106/01/WS60b5ac7da3101e7ce9752bea.html",
+      "snippet": "几年来，在党中央坚强领导下，在全国科技界和社会各界共同努力下，我国科技实力正在从量的积累迈向质的飞跃、从点的突破迈向系统能力提升，科技创新...",
+      "date": "34 个月前",
+      "source": "中国日报网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9aZV0vaz5EHF5LxySBnMzps8cyybbJ7TauCRH-PahDH44gvyUSMgZ0__ZA&s",
+      "position": 16
+    },
+    {
+      "title": "中国这十年科技创新交出亮眼成绩单-封面新闻",
+      "link": "http://www.stdaily.com/cehua/June6th/fmxw.shtml",
+      "snippet": "十年来，在党中央坚强领导下，在全国科技界和广大科技工作者的共同努力下，我国科技事业发生了历史性、整体性、格局性重大变化，成功进入创新国家...",
+      "date": "10 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3tM8bOkdwFya2oyOnW_Pq_cRc0A-81eDmn3K-WZKJ6S79RBjndnTVTEGow&s",
+      "position": 17
+    },
+    {
+      "title": "人民日报整版观察：十年来经济建设历史性成就--观点--人民网",
+      "link": "http://opinion.people.com.cn/n1/2022/1111/c1003-32563680.html",
+      "snippet": "《人民日报》（2022年11月11日09版）习近平总书记指出：“学习贯彻党的二十大精神，要牢牢把握过去5年工作和新时代10年伟大变革的重大意义”。",
+      "date": "17 个月前",
+      "source": "人民网观点",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8YJoRSP6a0ZdMupaY9qAGSIPozimZ0Duu9UcJd5yE9N55eB5UbHEm8mKLA&s",
+      "position": 18
+    },
+    {
+      "title": "“科创百年——建党100周年科技成就科普展”在中国科技馆展出--图片频道",
+      "link": "http://pic.people.com.cn/n1/2021/0702/c1016-32146889.html",
+      "snippet": "由中国科协指导、中国科技馆主办的“科创百年——建党100周年科技成就科普展”自6月27日起在北京中国科技馆举行。据悉，展览共设置33个事件、6个情境...",
+      "date": "33 个月前",
+      "source": "人民网-图片频道",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvk_eoJsk5e5my2nSSLyYNZIQI5r3EFKvHGDnB0Jzh6SVq8J_GEwyQ-DDrQ&s",
+      "position": 19
+    },
+    {
+      "title": "【岛读】中国科技的真实实力怎么样？这篇文章讲透了--时政--人民网",
+      "link": "http://politics.people.com.cn/n1/2018/0817/c1001-30235630.html",
+      "snippet": "如何客观认知中国科技实力？中美贸易战当前，对这一问题的关注上升到了前所未有之高度。近年来，舆论界关乎中国科技实力的评价不乏极端化表达。",
+      "date": "67 个月前",
+      "source": "人民网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSzudL1Zh8rrl2NvOb1J0OVeygWGUx_UqsprvRuPssg&s",
+      "position": 20
+    },
+    {
+      "title": "重磅！2023何梁何利奖全名单公布-高校科技",
+      "link": "https://www.edu.cn/rd/zui_jin_geng_xin/202312/t20231220_2549866.shtml",
+      "snippet": "12月19日，何梁何利基金2023年度颁奖大会在北京隆重举行，2023年度何梁何利基金科学与技术奖共授予56名杰出科技工作者。",
+      "date": "3 个月前",
+      "source": "中国教育和科研计算机网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsI6RO1Rvr9JbJf_5rx3q1RTSYaWUGjkFb6CyE46y2aVl8KuGfd0jkW-cyGA&s",
+      "position": 21
+    },
+    {
+      "title": "中国科技创新“井喷式”爆发--经济·科技--人民网",
+      "link": "http://finance.people.com.cn/n1/2021/1110/c1004-32278256.html",
+      "snippet": "10月21日在北京展览馆拍摄的国家“十三五”科技创新成就展展出的中国空间站模型。 新华社记者金立旺摄中国科技创新领域捷报频传。",
+      "date": "29 个月前",
+      "source": "人民网财经",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH04KFxmrXm-8oG4l-3zXWSsWdJoUXGvxCcKyJnOSNXQIru3e9HjawB8HWgg&s",
+      "position": 22
+    },
+    {
+      "title": "外专点赞中国科技创新非凡成就-中国科技网",
+      "link": "http://stdaily.com/index/kejixinwen/202211/98f8b82d427b4f3ca14e990fffed065a.shtml",
+      "snippet": "10月27日，在北京展览馆举办的“奋进新时代”主题成就展上，外国专家们纷纷驻足观看科技感十足的实物、模型，感受中国科技创新的非凡成就。外专们表示，...",
+      "date": "17 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKFgta1QJZckJkHR7_pDklFypuOKE-6reIEjV5mNe0kGzZ2GgL7p75wRbO4A&s",
+      "position": 23
+    },
+    {
+      "title": "中国科技自立自强（2020特别报道）--时政--人民网",
+      "link": "http://politics.people.com.cn/n1/2020/1230/c1001-31983680.html",
+      "snippet": "2020年，我们共同见证了这样一串数字——“天问一号”探测器成功发射，已累计飞行约3.7亿公里；在38万公里之外，嫦娥五号探测器实现月球轨道交会对接...",
+      "date": "39 个月前",
+      "source": "人民网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkudn__l0VaREtsEsGw5RUHmLtZa817JCn_Mua9ZGv0n-WWz9HyhVVumntxw&s",
+      "position": 24
+    },
+    {
+      "title": "侯保荣院士荣获2021年度中国科学院杰出科技成就奖--经济·科技--人民网",
+      "link": "http://finance.people.com.cn/n1/2022/0121/c1004-32336561.html",
+      "snippet": "1月20日，中国科学院召开年度工作会议，中国工程院院士、中国科学院海洋研究所研究员侯保荣获得2021年度中国科学院杰出科技成就奖。",
+      "date": "26 个月前",
+      "source": "人民网财经",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9izvhVeS8U9LtqgRhje6n9p3wynIMZOtZAmmJBZGE-mUTyktN88CpprqHoQ&s",
+      "position": 25
+    },
+    {
+      "title": "新时代的中国与世界",
+      "link": "http://www.xinhuanet.com/politics/2019-09/27/c_1125047331.htm",
+      "snippet": "新华社北京9月27日电 国务院新闻办公室27日发布《新时代的中国与世界》白皮书。全文如下：. 新时代的中国与世界. （2019年9月）. 中华人民共和国.",
+      "date": "54 个月前",
+      "source": "新华网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt996sOwBVNMsPRmXejsCn42mqoUBLfGk-pGIuI87ksKeMzyvJQywq7ePBA&s",
+      "position": 26
+    },
+    {
+      "title": "江城科普快车“中国科技科普成就”专列地铁1、2号线开跑- 武汉",
+      "link": "http://m.cnhubei.com/content/2021-07/04/content_13906602.html",
+      "snippet": "湖北日报讯（记者文俊、通讯员郑莉莉）7月1日，江城科普快车“中国科技科普成就”专列在地铁1号线、2号线同时开跑，乘客走进车厢仿佛置身于一个科技创新...",
+      "date": "33 个月前",
+      "source": "荆楚网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HW8ejYGCdSk5YViPUJ9isJK_Rhszblp8V-W1vzNYWSsr6EAFJPAsHbhMRg&s",
+      "position": 27
+    },
+    {
+      "title": "我国粮食安全为何有底气？十大标志性科技成就了解一下——中国青年网",
+      "link": "http://news.youth.cn/gn/202209/t20220930_14035191.htm",
+      "snippet": "我国粮食安全为何有底气？十大标志性科技成就了解一下. 2022-09-30 09:52 来源：光明网. 可视化|我国粮食安全为何有底气？十大标志性科技成就了解一下.",
+      "date": "18 个月前",
+      "source": "中国青年网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEz9eYHRDgDvxJ5PKE58osq6L7OKbU4Jd8_xV9KwhfYAI1p9bu9DBtgg8V&s",
+      "position": 28
+    },
+    {
+      "title": "习主席在历年新年贺词中点赞的科技成就-封面新闻",
+      "link": "http://www.stdaily.com/cehua/Dec31th/fmxw.shtml",
+      "snippet": "自2014年新年起，习近平主席每年发表的新年贺词，带领我们共同回望来路的辉煌成就，眺望前方的光明征程。每每聆听，总让我们倍感温暖、满怀豪情。这些成就凝结着新时代...",
+      "date": "27 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEA23MC0VH3SDWe6kGy-9qwdtLZtBevF6aa9A0A9lM333bvdk6T1HdOJ1i_A&s",
+      "position": 29
+    },
+    {
+      "title": "让大流量澎湃正能量——我国网络媒体发展成就综述-中国科技网",
+      "link": "http://www.stdaily.com/index/kejixinwen/202403/333d678b120840338c11954281f4eea0.shtml",
+      "snippet": "以“奋进新征程担负新使命”为主题的2024中国网络媒体论坛，3月30日将在云南昆明拉开帷幕。作为观察中国网络媒体发展走向的重要窗口，这场盛会将举办多...",
+      "date": "2 周前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwES1JtA5QHufSo-Lta76cW-BDdUCohtmXz88vDogJiYb9aM3zySonehliw&s",
+      "position": 30
+    },
+    {
+      "title": "全国首个国家安全数字馆在渝推出——重庆市“总体国家安全观·创新引领10周年”主题成就展开展-中国科技网",
+      "link": "http://www.stdaily.com/index/kejixinwen/202404/1c82943c670e432da3a0da0d672fd4e7.shtml",
+      "snippet": "在第九个全民国家安全教育日来临之际，重庆市开展“重庆市国家安全宣传月活动”。4月12日，重庆市“总体国家安全观·创新引领10周年——以新安全格局保障...",
+      "date": "2小时前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfKNghq7dxPs3mUM9VnCVvl2J7bPHHcgN3BLmzrod-sSCVsjWavvpB1WjlLQ&s",
+      "position": 31
+    },
+    {
+      "title": "外交部：中国科技发展成就一不靠偷二不靠抢_中国网客户端",
+      "link": "http://news.china.com.cn/world/2019-01/31/content_74429996.htm",
+      "snippet": "针对美国国会参院情报委员会副主席沃纳抹黑中国“技术偷窃”的言论，31日，中国外交部发言人耿爽作出了回应，他表示中国的科技发展成就一不靠偷，二不靠...",
+      "date": "62 个月前",
+      "source": "中国网新闻中心",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uFwrG5DxUbCSsowYvd5GWR5ReLnnypFJ5NYmBGX0EtZf9Y2kzJrCw2AoSw&s",
+      "position": 32
+    },
+    {
+      "title": "雷清泉院士获“2021年度中国电介质物理终身成就奖”-中国科技网",
+      "link": "http://www.stdaily.com/index/kejixinwen/2021-04/13/content_1112715.shtml",
+      "snippet": "哈尔滨理工大学雷清泉院士获“2021年度中国电介质物理终身成就奖”。该奖项是中国物理学会电介质物理专业委员会于2014年设立的奖项，专门用于表彰为我国...",
+      "date": "36 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-mkY4qvU-Eguzprs9Xc1eE7eEBx7emebsfySMnDszgIecv7B6tGqHD8UPA&s",
+      "position": 33
+    },
+    {
+      "title": "2023，中国航天再启新程- 中华人民共和国国防部",
+      "link": "http://www.mod.gov.cn/gfbw/gfjy_index/zyhd/4931816.html",
+      "snippet": "《中国航天科技活动蓝皮书（2022年）》发布——. 2023，中国航天再启新程. 星空浩瀚无比，探索永无止境。 1月18日，中国航天科技集团有限公司发布...",
+      "date": "14 个月前",
+      "source": "中华人民共和国国防部",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cJlvptmiQO0eviKY_G8BWt2kKb42Jmp7A7fRjlYMxOZH1i9rCdZyru1-SA&s",
+      "position": 34
+    },
+    {
+      "title": "侯保荣院士荣获首届联合国世界腐蚀组织“腐蚀成就奖”-中国科技网",
+      "link": "http://www.stdaily.com/index/kejixinwen/2021-09/30/content_1223381.shtml",
+      "snippet": "9月30日，记者从中国科学院海洋研究所获悉，该所研究员、中国工程院院士侯保荣获联合国世界腐蚀组织（WCO）颁发的首届世界腐蚀成就奖。",
+      "date": "30 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DKYRMVL_xwaYfii5-e9tkFd99mGjRfbVdnsKi34kXhI6mTNThv-HUqyeKw&s",
+      "position": 35
+    },
+    {
+      "title": "科技创新成就大业——2019第八届中国创新创业大赛-中国科技网",
+      "link": "http://www.stdaily.com/zhuanti/zgcxcy/2019scds.shtml",
+      "snippet": "11月28日，第八届中国创新创业大赛新能源及节能环保行业总决赛在江西省宜春市圆满落幕。浙江锋源氢能科技有限公司、宁夏神耀科技有限责任公司分获初创企业组、成长企业...",
+      "date": "53 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8ORFeChuQD3zwUlWuC1_t8msPXG02iEbxtU-ARb5eE6GqZbWUHxyldU03Q&s",
+      "position": 36
+    },
+    {
+      "title": "中科院《科学公开课》：探访中科院科技成就展—新闻—科学网",
+      "link": "https://news.sciencenet.cn/htmlnews/2022/8/485356.shtm",
+      "snippet": "直播时间：2022年8月31日20:00-20:40. 直播地址：科学网新浪微博直播间. https://weibo.com/l/wblive/p/show/1022:2321324808474034045054.",
+      "date": "19 个月前",
+      "source": "科学网—新闻",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsDN4i7PKeOFQtW0RA4p-yQMNWEMhSKt6qF64vsctsks3uI9HhfOkSHOzNQ&s",
+      "position": 37
+    },
+    {
+      "title": "中科院科技成就展开展，这些玩法不一般—新闻—科学网",
+      "link": "https://news.sciencenet.cn/htmlnews/2022/8/485153.shtm",
+      "snippet": "8月27日，2022年全国科技周“中科院重大科技成就展”轮值主场活动在中科院文献情报中心举行，中国科学院科技成就展（以下简称科技成就展）正式开展，并...",
+      "date": "19 个月前",
+      "source": "科学网—新闻",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG3KBxHrT-GD4hP_IwVZ7O9Kcm_oFOn4uFNhuE4vp8dnDv343jz9sNNxoSTQ&s",
+      "position": 38
+    },
+    {
+      "title": "刘亚东：除了那些核心技术，我们还缺什么？-中国科技网",
+      "link": "http://stdaily.com/index/kejixinwen/2018-06/22/content_683428.shtml",
+      "snippet": "6月21日下午， “是什么卡了我们的脖子• 亟待攻克的核心技术” 科学传播沙龙在中国科技会堂召开。",
+      "date": "69 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8v9ICHaHANzGlLBjIsuGfdDkK3Ot1c13Jj0EDZSuVZcprsOsQVMqWH-rIA&s",
+      "position": 39
+    },
+    {
+      "title": "中国医学科学院发布“十大科技成就” 庆甲子华章--人民网健康卫生频道--人民网",
+      "link": "http://health.people.com.cn/n1/2016/1031/c398004-28822218.html",
+      "snippet": "中国医学科学院北京协和医学院院校长曹雪涛人民网北京10月31日电 （李轶群）28日，中国医学科学院举行了建院60周年系列庆祝活动，发布中国医学科学院...",
+      "date": "89 个月前",
+      "source": "人民网健康",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0oHciqXv98kJAy7CTPVJpT1tyeofh2oSuFjhY1QSHrw6DeS6nmxyb9BL7Fw&s",
+      "position": 40
+    },
+    {
+      "title": "中国智造“奋进新时代”主题成就展上的“国家名片”_中国网客户端",
+      "link": "http://photo.china.com.cn/2022-10/07/content_78453678.htm",
+      "snippet": "奋进新时代”主题成就展在北京展览馆开展。中国网郑亮摄影中国网讯（记者郑亮刘桢珂赵娜）近日，“奋进新时代”主题成就...",
+      "date": "18 个月前",
+      "source": "图片中国",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnYPQnQZGKFW61VKxlDTll3mK2ul1ruQ96586M8CgvHQLsaMmXuOKuXO_qw&s",
+      "position": 41
+    },
+    {
+      "title": "17 位「前」微软人，成就了中国自动驾驶又一个黄埔军校",
+      "link": "https://www.leiphone.com/category/transportation/LeSYLRm3ozHsR0yZ.html",
+      "snippet": "身为美国四大科技巨头之一，当谷歌孵化Waymo、亚马逊并购Zoox、苹果重启泰坦计划时，微软却迟迟按兵不动。 直到今年的1月20号，也就是美国总统权力...",
+      "date": "33 个月前",
+      "source": "雷峰网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM7cFVUDJQb2YkrNSvOPA3W_todiuX9AUu6LRmo6LooUK47eQCDvVgyApqiQ&s",
+      "position": 42
+    },
+    {
+      "title": "自动驾驶、智能家居、人工智能的测试平台：高科技成就“编织之城”|科技创新世界潮-中国科技网",
+      "link": "http://stdaily.com/guoji/shidian/2021-07/27/content_1209263.shtml",
+      "snippet": "科技日报记者 刘霞. 据美国《福布斯》双周刊网站7月26日报道，日本汽车制造商丰田公司正在本土着力打造一座“智能城市”——“编织之城”（Woven City），意...",
+      "date": "32 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQe9eBpeTqiD3do_61h8f-oyivn3pwh0oZfwZkWd8Hz6JmZHyYkYpHvcaxw&s",
+      "position": 43
+    },
+    {
+      "title": "报告说中国与美国创新能力差距在迅速缩小",
+      "link": "https://www.voachinese.com/a/china-innovation-report-20190408/4867311.html",
+      "snippet": "美国信息技术与创新基金会（Information Technology & Innovation Foundation）最新发布的一份报告说，中国已经拉近与美国在技术创新领域的差距，...",
+      "date": "60 个月前",
+      "source": "美国之音",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7UEFL012yxsAL5RTohxHPetpQxW69gauyJ9kS0UubWIb4UUxdBIypBBaSQ&s",
+      "position": 44
+    },
+    {
+      "title": "西交大荣命哲教授等获首届“高景德科技成就奖”—新闻—科学网",
+      "link": "https://news.sciencenet.cn/htmlnews/2022/12/491413.shtm",
+      "snippet": "西安交通大学电气工程学院荣命哲教授。西安交大供图. 近日，根据《中国电工技术学会科学技术奖励办法》有关规定，中国电工技术学会科学技术奖之科技...",
+      "date": "15 个月前",
+      "source": "科学网—新闻",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMostNBu510HtpJyzuNbb-06EHbAFTtRbocW14BD-osNcEfYW6Mel4W74_g&s",
+      "position": 45
+    },
+    {
+      "title": "中國古代獨步天下的天文科技成就",
+      "link": "https://www.epochtimes.com/gb/20/8/8/n12316046.htm",
+      "snippet": "中华文明中的天文科学有什么优越性，有什么独步天下的内涵呢？现代研究中国科技史的专家、英国王家学会（Royal Society）院士李约瑟教授作《中国的...",
+      "date": "44 个月前",
+      "source": "大纪元新闻网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1n3Ouxt4JjiyCotNpevGsVHuiXWZmZl7lGyoVxp81DuHGjUyXV5YeOagGg&s",
+      "position": 46
+    },
+    {
+      "title": "伦敦科学博物馆里过大年——“科学春晚”奉上特制的中国科技“年夜饭”-中国科技网",
+      "link": "http://stdaily.com/index/kejixinwen/2019-02/01/content_749326.shtml",
+      "snippet": "30日晚，位于伦敦帝国理工学院内的科学博物馆人流如织，热闹非凡，一场别开生面的“科学春晚”在这里举行。",
+      "date": "62 个月前",
+      "source": "中国科技网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcgY_a1U9k8fqJOEFBPl__J0uawohAvt2TDc_t2VH79OzZ_T0N7rPH-M5xA&s",
+      "position": 47
+    },
+    {
+      "title": "硬核！盘点2020中国黑科技新成就_华龙一",
+      "link": "https://www.sohu.com/a/436564025_162758",
+      "snippet": "【硬核！盘点2020中国黑科技新成就】中国量子计算新突破、新一代“人造太阳”放电、中国进入核电技术先进国家行列…近日，科技界好消息不断。",
+      "date": "40 个月前",
+      "source": "搜狐网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEqfhTQzmWBDl3SiWmVe2rt5wYIk4t-Mh1hqovOLSKZ5BFb-yOtJpQjGj-g&s",
+      "position": 48
+    },
+    {
+      "title": "冬至常新：天人合一文明與傳世科技成就",
+      "link": "https://www.epochtimes.com/gb/21/12/18/n13445156.htm",
+      "snippet": "冬至在文化史上为什么很有份量？历代校正历书为什么以冬至作为时间指标呢？又如何校正呢？历朝历代有什么成就？从冬至说开去，展现出中华文化天人合一...",
+      "date": "27 个月前",
+      "source": "大纪元新闻网",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvuXlErrG64niMTTEksCNFD5A57EYdgKdPDoNoBRlsBIeJ5r8QLiw2-ko3w&s",
+      "position": 49
+    },
+    {
+      "title": "科普作家方舟子称屠呦呦“夸大自己成就”引争议",
+      "link": "https://www.bbc.com/zhongwen/simp/china/2015/10/151007_fang_zhouzi_artemisinin",
+      "snippet": "中国科普作家方舟子在接受中国媒体采访时表示，刚刚获得诺贝尔生理学或医学奖的屠呦呦在发表研究成果时忽略了他人的贡献。",
+      "date": "102 个月前",
+      "source": "BBC",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6YkXY43v10jK9e81oEIpja3UG0MBoPtYXqulskgVrsk3eDdERNcM6z8nww&s",
+      "position": 50
+    }
+  ]
+}
